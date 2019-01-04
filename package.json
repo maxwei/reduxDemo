@@ -1,0 +1,33 @@
+{
+  "name": "analysis-system-dubhe",
+  "version": "1.0.0",
+  "description": "analysis-system-Dubhe中`Dubhe`是大版本名称，大版本以北斗七星英文进行命名。",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.mininglamp.com:MingVision-FrontEnd/analysis-system/analysis-system-Dubhe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-sass": "^4.10.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^5.1.1",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "mockjs": "^1.0.1-beta3",
+    "parcel-bundler": "^1.10.3"
+  }
+}
