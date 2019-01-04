@@ -1,2 +1,4 @@
 #   表示此为注释,将被Git忽略
 node_modules
+dist/
+.cache/
